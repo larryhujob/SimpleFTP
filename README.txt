@@ -24,5 +24,3 @@ Download
 1. Compile and run server.java
 2. Compile and run ClientParser.java with arguments "-g downloadTest.txt -a downloadResult.txt -h"
 3. Go to current project work space directory and find "downloadResult.txt" in the client folder.
-
-Repeat the above process and see how it goes when the result has already exist on client.
